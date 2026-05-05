@@ -1,12 +1,12 @@
 ---
-title: "UPFLOW"
-date: 2021-06-22T15:24:34+01:00
-description: "Upward mantle flow from novel seismic observations"
+title: "AtlanticArray"
+date: 2025-06-22T15:24:34+01:00
 ---
 
-While downward mantle flow (subduction) is well constrained, a grand challenge in Earth sciences is to understand mid-plate, deep upward flow that cannot be explained by plate tectonics. The aim of the UPFLOW project, funded by the European Research Council (2021-2026) is to develop an entirely new seismic imaging approach and to use it to constrain plume-like mantle upwellings at unprecedented resolution. Upward flow is critical for continental growth, for returning volatiles to the atmosphere and for producing Earth's largest melting events. These events coincide with major extinctions, supercontinent breakups and with changes in geodynamo behaviour.  
+AtlanticArray is a scientific grassroots initiative to deploy a basin-wide network of seismo-acoustic sensors across the Atlantic seafloor over 10–12 years, enabling the first truly holistic, multi-scale imaging of the subsea geosphere—from deep mantle dynamics to surface volcanism—across Earth’s full spectrum of magmatic settings.
 
-#### Project Beneficiaries
+<p align="center">
+  <img src="/ATA_map.png" width="100%">
+</p>
 
-University College London (UCL, UK)  
-Instituto Português do Mar e da Atmosfera, I.P. (IPMA, Portugal)
+<p align="center"><em>Atlantic Array deployment map.</em></p>

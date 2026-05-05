@@ -1,8 +1,11 @@
 ---
 title: "People"
-date: 2021-07-03T14:57:36+01:00
-weight: 2
-summary: ""
 ---
 
-Below are all the members directly funded by the project.  More to come!
+<p align="center">
+  <img src="/ATA_ppl.png" width="100%">
+</p>
+
+<p align="center">
+<em>AtlanticArray workshop at University College London (UK) in March 2025</em>
+</p>
