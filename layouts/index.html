@@ -1,0 +1,9 @@
+{{ define "main" }}
+<main class="pa4 mw7 center">
+  <h1>{{ .Params.headline | default .Title }}</h1>
+
+  <div class="lh-copy">
+    {{ .Content }}
+  </div>
+</main>
+{{ end }}
